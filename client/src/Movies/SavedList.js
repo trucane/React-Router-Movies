@@ -14,7 +14,7 @@ export default class SavedList extends Component {
           <span className="saved-movie">{movie.title}</span>
         ))}
 
-        <Link  className="home-button" to="/">Home</Link>
+        <Link  className="home-button" to="/">Homes</Link>
       </div>
     );
   }
